@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 94, 0);
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    font-size: 20px;
+}
+
+.cardapio{
+    text-align: center;
+    font-size: 100px;
+}
